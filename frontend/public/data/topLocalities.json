@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Gurgaon",
+      "image": "/images/gurgaon.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Delhi",
+      "image": "/images/delhi.webp"
+    },
+    {
+      "id": 3,
+      "name": "GOA",
+      "image": "/images/goa.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Faridabad",
+      "image": "/images/faridabad.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Noida",
+      "image": "/images/noida.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Lucknow",
+      "image": "/images/lucknow.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Pune",
+      "image": "/images/pune.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Bangalore",
+      "image": "/images/banglore.webp"
+    }
+  ]
+  

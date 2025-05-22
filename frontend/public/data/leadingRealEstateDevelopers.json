@@ -1,0 +1,117 @@
+[
+  {
+    "id": 2,
+    "name": "Godrej",
+    "image": "/images/godrej.jpg",
+    "url": "/project-details/godrej"
+  },
+  {
+    "id": 3,
+    "name": "BPTP",
+    "image": "/images/bptp.jpg",
+    "url": "/project-details/bptp"
+  },
+  {
+    "id": 5,
+    "name": "Elan",
+    "image": "/images/elan.jpg",
+    "url": "/project-details/elan"
+  },
+  {
+    "id": 6,
+    "name": "M3M",
+    "image": "/images/M3M_logo.jpg",
+    "url": "/project-details/m3m"
+  },
+  {
+    "id": 8,
+    "name": "Signature Global",
+    "image": "/images/signatureGlobal.webp",
+    "url": "/project-details/signature-global"
+  },
+  {
+    "id": 10,
+    "name": "Sobha",
+    "image": "/images/sobha.jpg",
+    "url": "/project-details/sobha"
+  },
+  {
+    "id": 11,
+    "name": "Krisumi",
+    "image": "/images/krisumi.jpeg",
+    "url": "/project-details/krisumi"
+  },
+  {
+    "id": 12,
+    "name": "Smart World",
+    "image": "/images/smartworld.jpg",
+    "url": "/project-details/smart-world"
+  },
+  {
+    "id": 13,
+    "name": "ROF",
+    "image": "/images/rof.jpeg",
+    "url": "/project-details/rof"
+  },
+  {
+    "id": 15,
+    "name": "Ganga",
+    "image": "/images/ganga.png",
+    "url": "/project-details/ganga",
+    "width": "50%"
+  },
+  {
+    "id": 16,
+    "name": "DLF",
+    "image": "/images/dlf.png",
+    "url": "/project-details/dlf"
+  },
+  {
+    "id": 17,
+    "name": "MRG",
+    "image": "/images/mrg.png",
+    "url": "/project-details/mrg"
+  },
+  {
+    "id": 18,
+    "name": "Omaxe",
+    "image": "/images/omaxe.webp",
+    "url": "/project-details/omaxe"
+  },
+  {
+    "id": 20,
+    "name": "Trevoc",
+    "image": "/images/trevoc.avif",
+    "url": "/project-details/trevoc"
+  },
+  {
+    "id": 22,
+    "name": "AIPL",
+    "image": "/images/aipl.png",
+    "url": "/project-details/aipl"
+  },
+  {
+    "id": 23,
+    "name": "Navraj",
+    "image": "/images/navraj.jpeg",
+    "url": "/project-details/navraj"
+  },
+  {
+    "id": 24,
+    "name": "4sDevelopers",
+    "image": "/images/4sDevelopers.png",
+    "url": "/project-details/4s-developers"
+  },
+  {
+    "id": 25,
+    "name": "Max",
+    "image": "/images/max.jpg",
+    "url": "/project-details/max"
+  },
+  {
+    "id": 26,
+    "name": "Trehan",
+    "image": "/images/Trehan-Home-Developers-Logo.webp",
+    "url": "/project-details/trehan"
+  }
+]

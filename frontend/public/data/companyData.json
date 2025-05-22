@@ -1,0 +1,178 @@
+{
+  "godrej": {
+    "name": "Godrej Properties",
+    "logo": "/images/godrej.jpg",
+    "totalProjects": 13,
+    "ongoingProjects": 12,
+    "cityPresence": 75,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/godrej.jpg",
+    "description": "Godrej Properties is one of India's most trusted real estate developers, offering sustainable and innovative housing solutions. With a legacy of over three decades, the company has delivered premium residential, commercial, and township projects across major cities. Godrej Properties is known for its eco-friendly designs, energy-efficient buildings, and commitment to quality. Their projects are designed to provide a harmonious blend of luxury, comfort, and sustainability. The company focuses on creating vibrant communities with world-class amenities, green spaces, and modern infrastructure. Godrej Properties' customer-centric approach and emphasis on transparency have made it a preferred choice for homebuyers and investors. Their vision is to redefine urban living by delivering spaces that inspire and enrich lives."
+  },
+  "bptp": {
+    "name": "BPTP",
+    "logo": "/images/bptp.jpg",
+    "totalProjects": 25,
+    "ongoingProjects": 8,
+    "cityPresence": 60,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/bptp.jpg",
+    "description": "BPTP is a renowned real estate developer in India, known for its innovative and high-quality residential and commercial projects. With a strong presence in the National Capital Region (NCR), BPTP has delivered over 25 projects, offering luxury apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. BPTP's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. BPTP's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+
+  "elan": {
+    "name": "Elan",
+    "logo": "/images/elan.jpg",
+    "totalProjects": 28,
+    "ongoingProjects": 15,
+    "cityPresence": 70,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/elan.webp",
+    "description": "Elan is a prominent real estate developer in India, known for its modern residential and commercial projects. With a focus on innovation and quality, Elan has delivered over 28 projects across major cities. The company specializes in creating luxurious apartments, integrated townships, and office spaces that cater to the needs of urban dwellers. Elan's projects are designed with a focus on sustainability, aesthetics, and functionality. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Elan's commitment to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry. The company continues to redefine urban living by delivering spaces that inspire and enrich lives."
+  },
+  "m3m": {
+    "name": "M3M",
+    "logo": "/images/M3M_logo.jpg",
+    "totalProjects": 35,
+    "ongoingProjects": 18,
+    "cityPresence": 85,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/m3m.jpg",
+    "description": "M3M is a leading real estate developer in India, known for its luxury residential and commercial projects. With a strong presence in the National Capital Region (NCR), M3M has delivered over 35 projects, offering premium apartments, villas, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. M3M's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. M3M's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+
+  "signature-global": {
+    "name": "Signature Global",
+    "logo": "/images/signatureGlobal.webp",
+    "totalProjects": 40,
+    "ongoingProjects": 20,
+    "cityPresence": 90,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/signature-global.png",
+    "description": "Signature Global is a leading real estate developer in India, known for its affordable housing and commercial projects. With a strong presence in the National Capital Region (NCR), Signature Global has delivered over 40 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Signature Global's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Signature Global's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "sobha": {
+    "name": "Sobha",
+    "logo": "/images/sobha.jpg",
+    "totalProjects": 38,
+    "ongoingProjects": 17,
+    "cityPresence": 88,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/sobha.jpg",
+    "description": "Sobha is a leading real estate developer in India, known for its high-end luxury apartments and villas. With a strong presence in the National Capital Region (NCR), Sobha has delivered over 38 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Sobha's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Sobha's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "krisumi": {
+    "name": "Krisumi",
+    "logo": "/images/krisumi.jpeg",
+    "totalProjects": 10,
+    "ongoingProjects": 5,
+    "cityPresence": 30,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/krisumi.png",
+    "description": "Krisumi is a leading real estate developer in India, known for its blend of Japanese technology and Indian real estate expertise. With a strong presence in the National Capital Region (NCR), Krisumi has delivered over 10 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Krisumi's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Krisumi's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "smart-world": {
+    "name": "Smart World",
+    "logo": "/images/smartworld.jpg",
+    "totalProjects": 18,
+    "ongoingProjects": 9,
+    "cityPresence": 45,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/smart-world.jpg",
+    "description": "Smart World is a leading real estate developer in India, known for its modern urban developments. With a strong presence in the National Capital Region (NCR), Smart World has delivered over 18 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Smart World's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Smart World's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "rof": {
+    "name": "ROF",
+    "logo": "/images/rof.jpeg",
+    "totalProjects": 12,
+    "ongoingProjects": 4,
+    "cityPresence": 25,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/rof.jpg",
+    "description": "ROF is a leading real estate developer in India, known for its affordable housing projects. With a strong presence in the National Capital Region (NCR), ROF has delivered over 12 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. ROF's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. ROF's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+
+  "ganga": {
+    "name": "Ganga Realty",
+    "logo": "/images/ganga.png",
+    "totalProjects": 14,
+    "ongoingProjects": 6,
+    "cityPresence": 35,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/ganga.jpg",
+    "description": "Ganga Realty is a leading real estate developer in India, known for redefining the real estate sector. With a strong presence in the National Capital Region (NCR), Ganga Realty has delivered over 14 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Ganga Realty's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Ganga Realty's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "dlf": {
+    "name": "DLF",
+    "logo": "/images/dlf.png",
+    "totalProjects": 50,
+    "ongoingProjects": 20,
+    "cityPresence": 95,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/dlf.jpeg",
+    "description": "DLF is India's largest real estate developer, known for its premium residential, commercial, and retail projects. With a legacy spanning over seven decades, DLF has delivered over 50 projects across major cities. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. DLF's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. DLF's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "mrg": {
+    "name": "MRG",
+    "logo": "/images/mrg.png",
+    "totalProjects": 18,
+    "ongoingProjects": 7,
+    "cityPresence": 40,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/mrg.jpg",
+    "description": "MRG is a leading real estate developer in India, known for its sustainable and futuristic developments. With a strong presence in the National Capital Region (NCR), MRG has delivered over 18 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. MRG's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. MRG's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "omaxe": {
+    "name": "Omaxe",
+    "logo": "/images/omaxe.webp",
+    "totalProjects": 27,
+    "ongoingProjects": 12,
+    "cityPresence": 65,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/omaxe.jpg",
+    "description": "Omaxe is a leading real estate developer in India, known for its high-end commercial and residential properties. With a strong presence in the National Capital Region (NCR), Omaxe has delivered over 27 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Omaxe's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Omaxe's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+
+  "trevoc": {
+    "name": "Trevoc",
+    "logo": "/images/trevoc.avif",
+    "totalProjects": 16,
+    "ongoingProjects": 6,
+    "cityPresence": 38,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/trevoc.webp",
+    "description": "Trevoc is a leading real estate developer in India, known for its innovative designs and modern residential projects. With a strong presence in the National Capital Region (NCR), Trevoc has delivered over 16 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Trevoc's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Trevoc's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+
+  "aipl": {
+    "name": "AIPL",
+    "logo": "/images/aipl.png",
+    "totalProjects": 28,
+    "ongoingProjects": 11,
+    "cityPresence": 58,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/aipl.webp",
+    "description": "AIPL is a leading real estate developer in India, known for its commercial and luxury residential projects. With a strong presence in the National Capital Region (NCR), AIPL has delivered over 28 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. AIPL's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. AIPL's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "navraj": {
+    "name": "Navraj",
+    "logo": "/images/navraj.jpeg",
+    "totalProjects": 12,
+    "ongoingProjects": 5,
+    "cityPresence": 30,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/navraj.jpg",
+    "description": "Navraj is a leading real estate developer in India, known for its modern residential and commercial projects. With a strong presence in the National Capital Region (NCR), Navraj has delivered over 12 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Navraj's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Navraj's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "4s-developers": {
+    "name": "4S Developers",
+    "logo": "/images/4sDevelopers.png",
+    "totalProjects": 18,
+    "ongoingProjects": 7,
+    "cityPresence": 42,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/4s-developers.webp",
+    "description": "4S Developers is a leading real estate developer in India, known for its modern architecture and design. With a strong presence in the National Capital Region (NCR), 4S Developers has delivered over 18 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. 4S Developers' projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. 4S Developers' dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "max": {
+    "name": "Max",
+    "logo": "/images/max.jpg",
+    "totalProjects": 15,
+    "ongoingProjects": 5,
+    "cityPresence": 35,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/max.jpg",
+    "description": "Max is a leading real estate developer in India, known for its sustainable real estate solutions. With a strong presence in the National Capital Region (NCR), Max has delivered over 15 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Max's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Max's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  },
+  "trehan": {
+    "name": "Trehan",
+    "logo": "/images/Trehan-Home-Developers-Logo.webp",
+    "totalProjects": 20,
+    "ongoingProjects": 8,
+    "cityPresence": 48,
+    "bgImage": "/images/DeveloperProjects/ProjectBGImg/trehan.avif",
+    "description": "Trehan is a leading real estate developer in India, known for its modern residential and commercial projects. With a strong presence in the National Capital Region (NCR), Trehan has delivered over 20 projects, offering premium apartments, integrated townships, and office spaces. The company is committed to creating sustainable and modern living spaces that cater to the needs of urban dwellers. Trehan's projects are designed with a focus on aesthetics, functionality, and environmental sustainability. Their developments feature world-class amenities, green spaces, and state-of-the-art infrastructure. Trehan's dedication to excellence, transparency, and customer satisfaction has earned it a reputation as a trusted name in the real estate industry."
+  }
+}

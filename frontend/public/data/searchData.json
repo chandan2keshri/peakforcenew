@@ -1,0 +1,142 @@
+[
+  {
+    "name": "About Us",
+    "path": "/about",
+    "keywords": ["company info", "who we are", "about", "overview", "our story"]
+  },
+  {
+    "name": "Careers",
+    "path": "/careers",
+    "keywords": ["jobs", "career", "work with us", "hiring", "join team"]
+  },
+  {
+    "name": "Contact Us",
+    "path": "/contact",
+    "keywords": ["support", "contact", "get in touch", "customer care", "helpline"]
+  },
+  {
+    "name": "Testimonials",
+    "path": "/testimonials",
+    "keywords": ["reviews", "feedback", "testimonials", "user experience", "client reviews"]
+  },
+  {
+    "name": "Godrej",
+    "path": "/project-details/godrej",
+    "keywords": ["builder", "godrej builder", "godrej", "real estate", "properties"]
+  },
+  {
+    "name": "BPTP",
+    "path": "/project-details/bptp",
+    "keywords": ["builder", "bptp builder", "bptp", "real estate", "properties"]
+  },
+  {
+    "name": "Elan",
+    "path": "/project-details/elan",
+    "keywords": ["builder", "elan builder", "elan", "real estate", "properties"]
+  },
+  {
+    "name": "M3M",
+    "path": "/project-details/m3m",
+    "keywords": ["builder", "m3m builder", "m3m", "real estate", "properties"]
+  },
+  {
+    "name": "Signature Global",
+    "path": "/project-details/signature-global",
+    "keywords": ["builder", "signature global builder", "signature global", "real estate", "properties"]
+  },
+  {
+    "name": "Sobha",
+    "path": "/project-details/sobha",
+    "keywords": ["builder", "sobha builder", "sobha", "real estate", "properties"]
+  },
+  {
+    "name": "Krisumi",
+    "path": "/project-details/krisumi",
+    "keywords": ["builder", "krisumi builder", "krisumi", "real estate", "properties"]
+  },
+  {
+    "name": "Smart World",
+    "path": "/project-details/smart-world",
+    "keywords": ["builder", "smart world builder", "smart world", "real estate", "properties"]
+  },
+  {
+    "name": "ROF",
+    "path": "/project-details/rof",
+    "keywords": ["builder", "rof builder", "rof", "real estate", "properties"]
+  },
+  {
+    "name": "Ganga",
+    "path": "/project-details/ganga",
+    "keywords": ["builder", "ganga builder", "ganga", "real estate", "properties"]
+  },
+  {
+    "name": "DLF",
+    "path": "/project-details/dlf",
+    "keywords": ["builder", "dlf builder", "dlf", "real estate", "properties"]
+  },
+  {
+    "name": "MRG",
+    "path": "/project-details/mrg",
+    "keywords": ["builder", "mrg builder", "mrg", "real estate", "properties"]
+  },
+  {
+    "name": "Omaxe",
+    "path": "/project-details/omaxe",
+    "keywords": ["builder", "omaxe builder", "omaxe", "real estate", "properties"]
+  },
+  {
+    "name": "Trevoc",
+    "path": "/project-details/trevoc",
+    "keywords": ["builder", "trevoc builder", "trevoc", "real estate", "properties"]
+  },
+  {
+    "name": "AIPL",
+    "path": "/project-details/aipl",
+    "keywords": ["builder", "aipl builder", "aipl", "real estate", "properties"]
+  },
+  {
+    "name": "Navraj",
+    "path": "/project-details/navraj",
+    "keywords": ["builder", "navraj builder", "navraj", "real estate", "properties"]
+  },
+  {
+    "name": "4sDevelopers",
+    "path": "/project-details/4sdevelopers",
+    "keywords": ["builder", "4sdevelopers builder", "4sdevelopers", "real estate", "properties"]
+  },
+  {
+    "name": "Max",
+    "path": "/project-details/max",
+    "keywords": ["builder", "max builder", "max", "real estate", "properties"]
+  },
+  {
+    "name": "Trehan",
+    "path": "/project-details/trehan",
+    "keywords": ["builder", "trehan builder", "trehan", "real estate", "properties"]
+  },
+  {
+    "name": "Skymark",
+    "path": "/project-details/skymark",
+    "keywords": ["builder", "skymark builder", "skymark", "real estate", "properties"]
+  },
+  {
+    "name": "Ithum",
+    "path": "/project-details/ithum",
+    "keywords": ["builder", "ithum builder", "ithum", "real estate", "properties"]
+  },
+  {
+    "name": "LandMark",
+    "path": "/project-details/landmark",
+    "keywords": ["builder", "landmark builder", "landmark", "real estate", "properties"]
+  },
+  {
+    "name": "Loan Service",
+    "path": "https://loanservice.peakforce.co.in",
+    "keywords": ["loan", "loan services", "home loan", "personal loan", "mortgage", "finance"]
+  },
+  {
+    "name": "Loan Service",
+    "path": "https://loanservice.peakforce.co.in",
+    "keywords": ["loan", "loan services", "home loan", "personal loan", "mortgage", "finance"]
+  }
+]

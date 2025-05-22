@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Signature Global Daxin",
+    "price": "₹ 2.10 Cr - 2.34 Cr",
+    "image": "/images/signatureGlobalDaxin.jpg",
+    "slug": "/project-details/signature-global/residential-signature-global-daxin-vistas"
+  },
+  {
+    "id": 2,
+    "name": "Sobha Altus",
+    "price": "₹ 8.7 Cr - 10.5 Cr",
+    "image": "/images/trending-projects/sobhaAltus.webp",
+    "slug": "/project-details/sobha/residential-sobha-altus-gurgaon"
+  },
+  {
+    "id": 3,
+    "name": "Krisumi Waterside Residencies",
+    "price": "₹ 2.5 Cr - 6.5 Cr",
+    "image": "/images/trending-projects/Krisumi.webp",
+    "slug": "/project-details/signature-global/residential-signature-global-daxin-vistas"
+  },
+  {
+    "id": 4,
+    "name": "Signature Global Twin Tower DXP",
+    "price": "₹ 1.5 Cr - 2.5 Cr",
+    "image": "/images/trending-projects/signatureGlobalTwinTower.jpeg",
+    "slug": "/project-details/krisumi/residential-krisumi-waterfall-residences-gurgaon"
+  },
+  {
+    "id": 5,
+    "name": "ROF Pravasa",
+    "price": "₹ 2.4 Cr - ₹ 2.6 Cr",
+    "image": "/images/trending-projects/rof_pravasa.jpeg",
+    "slug": "/project-details/rof/residential-rof-pravasa-gurgaon"
+  },
+  {
+    "id": 7,
+    "name": "Trevoc Royal Residences",
+    "price": "₹ 6.6 Cr - ₹ 8.45 Cr",
+    "image": "/images/trending-projects/trevoc_royal_residences.avif",
+    "slug": "/project-details/trevoc/residential-trevoc-royal-residences-sector-56-gurgaon"
+  },
+  {
+    "id": 8,
+    "name": "Signature Global Titanium SPR",
+    "price": "₹ 4.32 Cr - ₹ 6.8 Cr",
+    "image": "/images/trending-projects/signature_global_titanium_spr.jpg",
+    "slug": "/project-details/signature-global/residential-signature-global-titanium-spr"
+  }
+]

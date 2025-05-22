@@ -1,0 +1,1 @@
+<span class="reratext">RERA <i class="bi bi-check-lg"></i></span>

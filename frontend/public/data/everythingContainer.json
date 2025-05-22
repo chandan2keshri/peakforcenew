@@ -1,0 +1,32 @@
+[
+  { "id": 1, "name": "Loan Service", "image": "/images/home-loan.png",
+  "slug": "https://loanservice.peakforce.co.in" 
+},
+  {
+    "id": 3,
+    "name": "Property Legal Services",
+    "image": "/images/legal-services.png"
+
+  },
+  {
+    "id": 4,
+    "name": "Property Management",
+    "image": "/images/property-management.png"
+  },
+  {
+    "id": 6,
+    "name": "Online Rent Agreement",
+    "image": "/images/rent-agreement.png"
+  },
+  {
+    "id": 7,
+    "name": "Rent Receipt Generator",
+    "image": "/images/rent-receipt.png"
+  },
+  {
+    "id": 8,
+    "name": "Sell or Rent Property",
+    "image": "/images/sell-rent.png"
+  },
+  { "id": 9, "name": "Title Search", "image": "/images/title-search.png" }
+]
